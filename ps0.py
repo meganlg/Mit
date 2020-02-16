@@ -7,3 +7,5 @@
 print raw_input('What is your first name?')
 
 print raw_input('What is your last name?')
+
+print('extra statement')
